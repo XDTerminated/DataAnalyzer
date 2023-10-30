@@ -31,7 +31,7 @@ from pptx import Presentation
 import os
 import csv
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 
 # Sets up environ variables for openai
